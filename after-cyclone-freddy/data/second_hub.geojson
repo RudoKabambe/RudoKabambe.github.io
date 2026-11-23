@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "out_second_hub",
+"xy_coordinate_resolution": 1e-06,
+"features": [
+{ "type": "Feature", "properties": { "name": "Chitera Health Centre", "type": "Health Centre", "people": 1106, "sites": 10 }, "geometry": { "type": "Point", "coordinates": [ 35.12306, -15.60646 ] } }
+]
+}

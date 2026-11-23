@@ -1,0 +1,36 @@
+{
+  "population": 1476681,
+  "facilities": 146,
+  "public_facilities": 28,
+  "pct_gt5_any": 5.9,
+  "pct_gt5_pub": 8.7,
+  "pct_gt8_pub": 1.3,
+  "pop_gt5_pub": 129122,
+  "median_tt_min": 26.4,
+  "sites": 97,
+  "displaced": 19426,
+  "under5": 5936,
+  "sites_no_regular_health": 45,
+  "people_no_regular_health": 8858,
+  "sites_foot_only": 68,
+  "sites_malaria_top": 72,
+  "sites_gt5_pub": 8,
+  "median_site_dist_pub_km": 2.8,
+  "drone_radius_km": 20,
+  "hub_names": [
+    "Queen Elizabeth Central Hospital"
+  ],
+  "hubs": 1,
+  "pct_pop_in_drone_range": 84.5,
+  "drone_priority_sites": 16,
+  "drone_priority_people": 4654,
+  "drone_priority_under5": 1536,
+  "sites_in_drone_range": 79,
+  "second_hub": {
+    "name": "Chitera Health Centre",
+    "type": "Health Centre",
+    "people": 1106,
+    "sites": 10
+  },
+  "priority_out_of_range": 10
+}
